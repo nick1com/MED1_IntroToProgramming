@@ -1,8 +1,8 @@
 float circleX = 50;
 float circleY = 50;
 
-float xSpeed = 4;
-float ySpeed = 8;
+float xSpeed = 5;
+float ySpeed = 10;
 
 void draw() {
   background(200);
